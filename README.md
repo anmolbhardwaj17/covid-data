@@ -1,4 +1,4 @@
-# covid-data
+# Covid-Data
 Gives lives covid cases around the world
 
 <img src="https://github.com/anmolbhardwaj17/covid-data/blob/main/covidlive.PNG" >
